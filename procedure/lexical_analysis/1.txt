@@ -1,0 +1,21 @@
+void main()
+{
+	int a,b;
+	a=2;
+	b=7;
+	a=a+b-c/m%n;
+	if(a>b)
+	{
+		a=a+b*c;
+	}
+	else 
+	{
+		c=a+b;
+	}
+	c=a+b;
+	while(c>0)
+	{
+		c=a+b;	
+	}
+	return ;
+}
